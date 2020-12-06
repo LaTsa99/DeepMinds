@@ -13,7 +13,7 @@ GNU GENERAL PUBLIC LICENSE v3
 See the LICENSE file
 
 # Team members
-Rezsnyák Gergely, Szapula László, Ulicska Gergely Ádám\n
+Rezsnyák Gergely, Szapula László, Ulicska Gergely Ádám
 Budapest University of Technology and Economics
 Budapest, Hungary
 {rezsnyak.gergely, laszlo.szapula, ulicskagergo}@edu.bme.hu
