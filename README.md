@@ -3,13 +3,13 @@ Homework for subject VITMAV45\
 See: http://smartlab.tmit.bme.hu/oktatas-deep-learning-nagy-hazi
 
 # Usage
-You can find the DeepMinds.ipynb (Python Notebook) file the root folder, open in Google Colab and run the cells.\
-See the comments below.\
-The hyperparameter optimization could be find in KerasTunerTest.ipynb file.\
-The article about the subject is also in the root folder named Inappropriate Image Detection with Convolutional Neural Networks and Transfer Learning.
+* **DeepMinds.ipynb** - source code of the whole project, written and commented in Google Colab;\
+* **KerasTunerTest.ipynb** - hyperparameter optimization;\
+* **paper.pdf** - article about the subject (Inappropriate Image Detection with Convolutional Neural Networks and Transfer Learning);\
+* **presentation.pdf** - presentation about the subject. You can find the YouTube video on this link: [YouTube video](<insert YouTube link>).
 
 # License
-GNU GENERAL PUBLIC LICENSE v3 
+GNU GENERAL PUBLIC LICENSE v3\
 See the LICENSE file
 
 # Team members
