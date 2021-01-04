@@ -4,11 +4,8 @@ See: http://smartlab.tmit.bme.hu/oktatas-deep-learning-nagy-hazi
 
 # Usage
 |**DeepMinds.ipynb**|source code of the whole project, written and commented in Google Colab|
-|---|---|---|
 |**KerasTunerTest.ipynb**|hyperparameter optimization|
-|---|---|---|
 |**paper.pdf**|article about the subject (Inappropriate Image Detection with Convolutional Neural Networks and Transfer Learning)|
-|---|---|---|
 |**presentation.pdf**|presentation about the subject. You can find the YouTube video on this link: [YouTube video](<insert YouTube link>)|
 
 # License
