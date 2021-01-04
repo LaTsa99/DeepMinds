@@ -3,6 +3,8 @@ Homework for subject VITMAV45\
 See: http://smartlab.tmit.bme.hu/oktatas-deep-learning-nagy-hazi
 
 # Usage
+|**File name**|Description|
+|---|---|
 |**DeepMinds.ipynb**|source code of the whole project, written and commented in Google Colab|
 |**KerasTunerTest.ipynb**|hyperparameter optimization|
 |**paper.pdf**|article about the subject (Inappropriate Image Detection with Convolutional Neural Networks and Transfer Learning)|
