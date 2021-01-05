@@ -10,6 +10,7 @@ See: http://smartlab.tmit.bme.hu/oktatas-deep-learning-nagy-hazi
 |**paper.pdf**|article about the subject (Inappropriate Image Detection with Convolutional Neural Networks and Transfer Learning)|
 |**presentation.pdf**|presentation about the subject. You can find the YouTube video on this link: [YouTube video](https://youtu.be/FT_rS66U1M0)|
 |[**Android app**](https://github.com/LaTsa99/DressUp)|Android app written for testing purposes|
+|[**Server code**](https://github.com/LaTsa99/DeepMindsServer)|Heroku server for Android app|
 
 # License
 GNU GENERAL PUBLIC LICENSE v3\
