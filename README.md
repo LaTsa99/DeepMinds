@@ -9,6 +9,7 @@ See: http://smartlab.tmit.bme.hu/oktatas-deep-learning-nagy-hazi
 |**KerasTunerTest.ipynb**|hyperparameter optimization|
 |**paper.pdf**|article about the subject (Inappropriate Image Detection with Convolutional Neural Networks and Transfer Learning)|
 |**presentation.pdf**|presentation about the subject. You can find the YouTube video on this link: [YouTube video](https://youtu.be/FT_rS66U1M0)|
+|[**Android app**](https://github.com/LaTsa99/DressUp)|Android app written for testing purposes|
 
 # License
 GNU GENERAL PUBLIC LICENSE v3\
